@@ -1,2 +1,2 @@
-# vue-uniapp-fullstack
-vue+uniapp+node fullstack
+# vue-fullstack
+vue fullstack
